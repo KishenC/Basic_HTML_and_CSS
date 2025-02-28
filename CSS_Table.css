@@ -1,0 +1,19 @@
+table {
+	border: 8px DarkKhaki;
+}
+
+td:hover {
+	background-color: Gold;
+	color: White;
+}
+
+tr, th {
+	background-color: Maroon;
+	color: Gold;
+}
+
+tr, td {
+	background-color: RoyalBlue;
+	color: Black;
+}
+	

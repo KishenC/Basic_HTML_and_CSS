@@ -1,0 +1,14 @@
+p {
+	color:	Gold;
+	background:	Crimson;
+	font-weight:	lighter;
+	text-align:	center;
+	text-shadow: 2px 2px 5px black;
+}
+h1 {
+	color: Indigo;
+	background: Beige;
+	font-weight: lighter;
+	text-align: center;
+	text-shadow: 3px 3px 6px Indigo;
+}
